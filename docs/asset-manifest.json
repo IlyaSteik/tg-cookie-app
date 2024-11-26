@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.3c2596e5.css",
-    "main.js": "./static/js/main.9d4dfc92.js",
+    "main.js": "./static/js/main.139908b7.js",
     "static/js/826.9f022ae2.chunk.js": "./static/js/826.9f022ae2.chunk.js",
     "static/js/723.464e4667.chunk.js": "./static/js/723.464e4667.chunk.js",
     "static/js/759.dd46fe47.chunk.js": "./static/js/759.dd46fe47.chunk.js",
@@ -46,15 +46,23 @@
     "static/media/glasses.svg": "./static/media/glasses.a937ac8f103d3e5b3d771dfd3bef3436.svg",
     "static/media/23.webp": "./static/media/23.061d0210e1c429751eec.webp",
     "static/media/standart.svg": "./static/media/standart.af91a2c84717bd09a4ddfa3039edea81.svg",
+    "static/media/standart.webp": "./static/media/standart.b37bf7b349185e64b71e.webp",
+    "static/media/background_fire.webp": "./static/media/background_fire.808e103c51092cab22b8.webp",
     "static/media/16.webp": "./static/media/16.05983bf368c98e877316.webp",
     "static/media/nickname.ttf": "./static/media/nickname.870ddb2b033772767eeb.ttf",
+    "static/media/background_snow.webp": "./static/media/background_snow.0773b7ab0b0db92b9378.webp",
+    "static/media/fuckman.webp": "./static/media/fuckman.d5423ad7f681b782fde3.webp",
     "static/media/WixMadeforDisplay-Bold.ttf": "./static/media/WixMadeforDisplay-Bold.98543e2023a91502975f.ttf",
     "static/media/13.webp": "./static/media/13.12d4bcf65574437dd033.webp",
     "static/media/14.webp": "./static/media/14.cebd481ead028b92a647.webp",
+    "static/media/rose.webp": "./static/media/rose.cc954697a88b284c8ccd.webp",
+    "static/media/job.webp": "./static/media/job.db25e42b5db8f7114bf7.webp",
     "static/media/Eurostile_Black.otf": "./static/media/Eurostile_Black.a2fad3fdf8d93ba39334.otf",
     "static/media/Eurostile_Heavy.otf": "./static/media/Eurostile_Heavy.d195e8af863d0ef22ee5.otf",
+    "static/media/glasses.webp": "./static/media/glasses.f36ab9b4dddbd2105ced.webp",
     "static/media/Eurostile_Medium.otf": "./static/media/Eurostile_Medium.3eb0da80169e72244812.otf",
     "static/media/Eurostile_Bold.otf": "./static/media/Eurostile_Bold.f4a9b317ef67e38f6f02.otf",
+    "static/media/lips.webp": "./static/media/lips.1c978a15a6c6a42eaeb1.webp",
     "static/media/Eurostile.otf": "./static/media/Eurostile.391d19ffe5acbd1a0ab5.otf",
     "static/media/20.webp": "./static/media/20.e9b930b0739a6311ba33.webp",
     "static/media/2.webp": "./static/media/2.fff2981de3e161d638f1.webp",
@@ -99,7 +107,7 @@
     "static/media/icon_40_unlock.svg": "./static/media/icon_40_unlock.4f18d2705233578c752d2ae639ee5cf7.svg",
     "index.html": "./index.html",
     "main.3c2596e5.css.map": "./static/css/main.3c2596e5.css.map",
-    "main.9d4dfc92.js.map": "./static/js/main.9d4dfc92.js.map",
+    "main.139908b7.js.map": "./static/js/main.139908b7.js.map",
     "826.9f022ae2.chunk.js.map": "./static/js/826.9f022ae2.chunk.js.map",
     "723.464e4667.chunk.js.map": "./static/js/723.464e4667.chunk.js.map",
     "759.dd46fe47.chunk.js.map": "./static/js/759.dd46fe47.chunk.js.map",
@@ -129,6 +137,6 @@
   },
   "entrypoints": [
     "static/css/main.3c2596e5.css",
-    "static/js/main.9d4dfc92.js"
+    "static/js/main.139908b7.js"
   ]
 }
