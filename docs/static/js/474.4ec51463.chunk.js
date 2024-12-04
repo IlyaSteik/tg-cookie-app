@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktg_cookie_app=self.webpackChunktg_cookie_app||[]).push([[474],{474:(e,p,o)=>{e.exports=o.p+"static/media/cookie_explosive.611690b9f362ae2361af.ogg"}}]);

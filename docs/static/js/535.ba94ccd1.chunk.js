@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktg_cookie_app=self.webpackChunktg_cookie_app||[]).push([[535],{6535:(e,a,o)=>{e.exports=o.p+"static/media/background_cookie.78b868305a10ea6fa1fe.ogg"}}]);
