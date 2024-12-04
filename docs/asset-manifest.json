@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.a0df39cd.css",
-    "main.js": "./static/js/main.fe1bbec4.js",
+    "main.css": "./static/css/main.e1c78581.css",
+    "main.js": "./static/js/main.0fa278bf.js",
     "static/js/826.9f022ae2.chunk.js": "./static/js/826.9f022ae2.chunk.js",
     "static/js/723.464e4667.chunk.js": "./static/js/723.464e4667.chunk.js",
     "static/js/759.dd46fe47.chunk.js": "./static/js/759.dd46fe47.chunk.js",
@@ -23,6 +23,11 @@
     "static/js/619.94db506e.chunk.js": "./static/js/619.94db506e.chunk.js",
     "static/js/137.8192674e.chunk.js": "./static/js/137.8192674e.chunk.js",
     "static/js/241.47647e54.chunk.js": "./static/js/241.47647e54.chunk.js",
+    "static/js/810.78b76cb1.chunk.js": "./static/js/810.78b76cb1.chunk.js",
+    "static/js/938.2f10e3be.chunk.js": "./static/js/938.2f10e3be.chunk.js",
+    "static/js/420.f24f7a40.chunk.js": "./static/js/420.f24f7a40.chunk.js",
+    "static/js/154.5a11bd06.chunk.js": "./static/js/154.5a11bd06.chunk.js",
+    "static/js/344.6190e961.chunk.js": "./static/js/344.6190e961.chunk.js",
     "static/js/586.c3dbba24.chunk.js": "./static/js/586.c3dbba24.chunk.js",
     "static/js/791.8cd8bdcb.chunk.js": "./static/js/791.8cd8bdcb.chunk.js",
     "static/js/800.0b677fce.chunk.js": "./static/js/800.0b677fce.chunk.js",
@@ -45,12 +50,14 @@
     "static/media/rose.svg": "./static/media/rose.6a7b880410308f3b342a5d5417108848.svg",
     "static/media/12.webp": "./static/media/12.c8aea263d19d2dbfe336.webp",
     "static/media/fuckman.svg": "./static/media/fuckman.85ad7892404041779738f55d8870ccb1.svg",
+    "static/media/background_no_cookie.mp3": "./static/media/background_no_cookie.367a8d321f7d56619ab4.mp3",
     "static/media/tie.svg": "./static/media/tie.eda1b8c0363d8acceb92b7da5dfbc39c.svg",
     "static/media/glasses.svg": "./static/media/glasses.a937ac8f103d3e5b3d771dfd3bef3436.svg",
     "static/media/23.webp": "./static/media/23.061d0210e1c429751eec.webp",
     "static/media/standart.svg": "./static/media/standart.af91a2c84717bd09a4ddfa3039edea81.svg",
     "static/media/standart.webp": "./static/media/standart.b37bf7b349185e64b71e.webp",
     "static/media/background_fire.webp": "./static/media/background_fire.808e103c51092cab22b8.webp",
+    "static/media/background_cookie.mp3": "./static/media/background_cookie.649562eef46d9609b4aa.mp3",
     "static/media/16.webp": "./static/media/16.05983bf368c98e877316.webp",
     "static/media/nickname.ttf": "./static/media/nickname.870ddb2b033772767eeb.ttf",
     "static/media/background_snow.webp": "./static/media/background_snow.0773b7ab0b0db92b9378.webp",
@@ -72,6 +79,7 @@
     "static/media/6.webp": "./static/media/6.e00921116653499da439.webp",
     "static/media/7.webp": "./static/media/7.65f6e5e84e811a35b8cb.webp",
     "static/media/8.webp": "./static/media/8.7a2003a7c79adb7c74db.webp",
+    "static/media/cookie_explosive.mp3": "./static/media/cookie_explosive.c9580a9f6d1ca4d9dbe6.mp3",
     "static/media/5.webp": "./static/media/5.f93af9a9831c0a7ecfff.webp",
     "static/media/3.webp": "./static/media/3.75d9c49e5d9fa20d9103.webp",
     "static/media/17.webp": "./static/media/17.2f6846530425cdd9aea5.webp",
@@ -87,9 +95,11 @@
     "static/media/18.webp": "./static/media/18.aa1d884ebf4ee5a7a6b0.webp",
     "static/media/4.webp": "./static/media/4.1dcb452bd021a08b8483.webp",
     "static/media/coin.webp": "./static/media/coin.a135677b89e74fb42311.webp",
+    "static/media/cookie_entry.mp3": "./static/media/cookie_entry.5424ec3c79bc9b5ad409.mp3",
     "static/media/icon_32_styles.svg": "./static/media/icon_32_styles.a0a21e208da618ab786055763820a2df.svg",
     "static/media/icon_80_time.svg": "./static/media/icon_80_time.aee91f73a4536cc119e4d6cde108aea4.svg",
     "static/media/icon_32_top.svg": "./static/media/icon_32_top.3d20e2e5508dec126b5616e4d57a50a0.svg",
+    "static/media/cookie_click.mp3": "./static/media/cookie_click.7e9cd1e0b0df231410d7.mp3",
     "static/media/icon_32_team.svg": "./static/media/icon_32_team.3a2e0f799a54b38717daea7f854004a3.svg",
     "static/media/icon_40_add_to_homescreen.svg": "./static/media/icon_40_add_to_homescreen.85279632baa477916f31965dde1bc66b.svg",
     "static/media/team.svg": "./static/media/team.d467d3a034fff2fa18934335f4966882.svg",
@@ -110,8 +120,8 @@
     "static/media/main.svg": "./static/media/main.e1dbdd97ca9a280753d73ca11f77aaf2.svg",
     "static/media/icon_40_unlock.svg": "./static/media/icon_40_unlock.4f18d2705233578c752d2ae639ee5cf7.svg",
     "index.html": "./index.html",
-    "main.a0df39cd.css.map": "./static/css/main.a0df39cd.css.map",
-    "main.fe1bbec4.js.map": "./static/js/main.fe1bbec4.js.map",
+    "main.e1c78581.css.map": "./static/css/main.e1c78581.css.map",
+    "main.0fa278bf.js.map": "./static/js/main.0fa278bf.js.map",
     "826.9f022ae2.chunk.js.map": "./static/js/826.9f022ae2.chunk.js.map",
     "723.464e4667.chunk.js.map": "./static/js/723.464e4667.chunk.js.map",
     "759.dd46fe47.chunk.js.map": "./static/js/759.dd46fe47.chunk.js.map",
@@ -141,7 +151,7 @@
     "334.85f453d8.chunk.js.map": "./static/js/334.85f453d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0df39cd.css",
-    "static/js/main.fe1bbec4.js"
+    "static/css/main.e1c78581.css",
+    "static/js/main.0fa278bf.js"
   ]
 }
