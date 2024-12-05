@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktg_cookie_app=self.webpackChunktg_cookie_app||[]).push([[244],{2244:(e,p,a)=>{e.exports=a.p+"static/media/background_no_cookie.367a8d321f7d56619ab4.mp3"}}]);
