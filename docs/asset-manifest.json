@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.491366f8.css",
-    "main.js": "./static/js/main.c716cdec.js",
+    "main.js": "./static/js/main.d320d3ef.js",
     "static/js/826.9f022ae2.chunk.js": "./static/js/826.9f022ae2.chunk.js",
     "static/js/723.464e4667.chunk.js": "./static/js/723.464e4667.chunk.js",
     "static/js/759.dd46fe47.chunk.js": "./static/js/759.dd46fe47.chunk.js",
@@ -28,7 +28,7 @@
     "static/js/420.f24f7a40.chunk.js": "./static/js/420.f24f7a40.chunk.js",
     "static/js/154.5a11bd06.chunk.js": "./static/js/154.5a11bd06.chunk.js",
     "static/js/344.6190e961.chunk.js": "./static/js/344.6190e961.chunk.js",
-    "static/js/398.8b0ee4bb.chunk.js": "./static/js/398.8b0ee4bb.chunk.js",
+    "static/js/398.520009fe.chunk.js": "./static/js/398.520009fe.chunk.js",
     "static/js/586.c3dbba24.chunk.js": "./static/js/586.c3dbba24.chunk.js",
     "static/js/791.8cd8bdcb.chunk.js": "./static/js/791.8cd8bdcb.chunk.js",
     "static/js/800.0b677fce.chunk.js": "./static/js/800.0b677fce.chunk.js",
@@ -65,10 +65,10 @@
     "static/media/nickname.ttf": "./static/media/nickname.870ddb2b033772767eeb.ttf",
     "static/media/background_snow.webp": "./static/media/background_snow.0773b7ab0b0db92b9378.webp",
     "static/media/fuckman.webp": "./static/media/fuckman.d5423ad7f681b782fde3.webp",
+    "static/media/text_typing.mp3": "./static/media/text_typing.b5580c81726431410045.mp3",
     "static/media/WixMadeforDisplay-Bold.ttf": "./static/media/WixMadeforDisplay-Bold.98543e2023a91502975f.ttf",
     "static/media/13.webp": "./static/media/13.12d4bcf65574437dd033.webp",
     "static/media/14.webp": "./static/media/14.cebd481ead028b92a647.webp",
-    "static/media/text_typing.mp3": "./static/media/text_typing.94c4329bca5afb9d113d.mp3",
     "static/media/rose.webp": "./static/media/rose.cc954697a88b284c8ccd.webp",
     "static/media/job.webp": "./static/media/job.db25e42b5db8f7114bf7.webp",
     "static/media/Eurostile_Black.otf": "./static/media/Eurostile_Black.a2fad3fdf8d93ba39334.otf",
@@ -127,7 +127,7 @@
     "static/media/icon_40_unlock.svg": "./static/media/icon_40_unlock.4f18d2705233578c752d2ae639ee5cf7.svg",
     "index.html": "./index.html",
     "main.491366f8.css.map": "./static/css/main.491366f8.css.map",
-    "main.c716cdec.js.map": "./static/js/main.c716cdec.js.map",
+    "main.d320d3ef.js.map": "./static/js/main.d320d3ef.js.map",
     "826.9f022ae2.chunk.js.map": "./static/js/826.9f022ae2.chunk.js.map",
     "723.464e4667.chunk.js.map": "./static/js/723.464e4667.chunk.js.map",
     "759.dd46fe47.chunk.js.map": "./static/js/759.dd46fe47.chunk.js.map",
@@ -160,6 +160,6 @@
   },
   "entrypoints": [
     "static/css/main.491366f8.css",
-    "static/js/main.c716cdec.js"
+    "static/js/main.d320d3ef.js"
   ]
 }
