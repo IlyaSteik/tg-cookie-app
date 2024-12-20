@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktg_cookie_app=self.webpackChunktg_cookie_app||[]).push([[651],{8651:function(e,p,c){e.exports=c.p+"static/media/xmas.f328e5502e0dc38794e8.mp3"}}]);
