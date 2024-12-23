@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.f341123b.css",
-    "main.js": "./static/js/main.239f7642.js",
+    "main.css": "./static/css/main.0fa2d551.css",
+    "main.js": "./static/js/main.9b8080a2.js",
     "static/js/826.9f022ae2.chunk.js": "./static/js/826.9f022ae2.chunk.js",
     "static/js/723.464e4667.chunk.js": "./static/js/723.464e4667.chunk.js",
     "static/js/759.dd46fe47.chunk.js": "./static/js/759.dd46fe47.chunk.js",
@@ -9,7 +9,7 @@
     "static/js/292.3e1d3092.chunk.js": "./static/js/292.3e1d3092.chunk.js",
     "static/js/528.e318e971.chunk.js": "./static/js/528.e318e971.chunk.js",
     "static/js/5.790cfa30.chunk.js": "./static/js/5.790cfa30.chunk.js",
-    "static/js/215.a69f92a3.chunk.js": "./static/js/215.a69f92a3.chunk.js",
+    "static/js/215.5ad0e366.chunk.js": "./static/js/215.5ad0e366.chunk.js",
     "static/js/490.7185bfc4.chunk.js": "./static/js/490.7185bfc4.chunk.js",
     "static/js/474.8d14533e.chunk.js": "./static/js/474.8d14533e.chunk.js",
     "static/js/378.7297eba2.chunk.js": "./static/js/378.7297eba2.chunk.js",
@@ -94,7 +94,6 @@
     "static/media/5.webp": "./static/media/5.f93af9a9831c0a7ecfff.webp",
     "static/media/3.webp": "./static/media/3.75d9c49e5d9fa20d9103.webp",
     "static/media/xmas.mp3": "./static/media/xmas.f328e5502e0dc38794e8.mp3",
-    "static/media/icon_30_cookie.svg": "./static/media/icon_30_cookie.05201d3be1461cf5e81f259032c37b8e.svg",
     "static/media/17.webp": "./static/media/17.2f6846530425cdd9aea5.webp",
     "static/media/19.webp": "./static/media/19.6565b91ca5fdd8daf23d.webp",
     "static/media/coin_with_text.webp": "./static/media/coin_with_text.5065554e2acdcbee61e9.webp",
@@ -114,6 +113,7 @@
     "static/media/icon_80_time.svg": "./static/media/icon_80_time.aee91f73a4536cc119e4d6cde108aea4.svg",
     "static/media/icon_32_top.svg": "./static/media/icon_32_top.3d20e2e5508dec126b5616e4d57a50a0.svg",
     "static/media/cookie_click.mp3": "./static/media/cookie_click.7e9cd1e0b0df231410d7.mp3",
+    "static/media/icon_30_cookie.svg": "./static/media/icon_30_cookie.51949e71cdd70e410659cc4bec09d529.svg",
     "static/media/icon_32_team.svg": "./static/media/icon_32_team.3a2e0f799a54b38717daea7f854004a3.svg",
     "static/media/icon_32_volume.svg": "./static/media/icon_32_volume.6a241492531accc7c3d63ef41cfe413a.svg",
     "static/media/icon_40_add_to_homescreen.svg": "./static/media/icon_40_add_to_homescreen.85279632baa477916f31965dde1bc66b.svg",
@@ -138,8 +138,8 @@
     "static/media/main.svg": "./static/media/main.e1dbdd97ca9a280753d73ca11f77aaf2.svg",
     "static/media/icon_40_unlock.svg": "./static/media/icon_40_unlock.4f18d2705233578c752d2ae639ee5cf7.svg",
     "index.html": "./index.html",
-    "main.f341123b.css.map": "./static/css/main.f341123b.css.map",
-    "main.239f7642.js.map": "./static/js/main.239f7642.js.map",
+    "main.0fa2d551.css.map": "./static/css/main.0fa2d551.css.map",
+    "main.9b8080a2.js.map": "./static/js/main.9b8080a2.js.map",
     "826.9f022ae2.chunk.js.map": "./static/js/826.9f022ae2.chunk.js.map",
     "723.464e4667.chunk.js.map": "./static/js/723.464e4667.chunk.js.map",
     "759.dd46fe47.chunk.js.map": "./static/js/759.dd46fe47.chunk.js.map",
@@ -147,7 +147,7 @@
     "292.3e1d3092.chunk.js.map": "./static/js/292.3e1d3092.chunk.js.map",
     "528.e318e971.chunk.js.map": "./static/js/528.e318e971.chunk.js.map",
     "5.790cfa30.chunk.js.map": "./static/js/5.790cfa30.chunk.js.map",
-    "215.a69f92a3.chunk.js.map": "./static/js/215.a69f92a3.chunk.js.map",
+    "215.5ad0e366.chunk.js.map": "./static/js/215.5ad0e366.chunk.js.map",
     "490.7185bfc4.chunk.js.map": "./static/js/490.7185bfc4.chunk.js.map",
     "474.8d14533e.chunk.js.map": "./static/js/474.8d14533e.chunk.js.map",
     "378.7297eba2.chunk.js.map": "./static/js/378.7297eba2.chunk.js.map",
@@ -176,7 +176,7 @@
     "334.85f453d8.chunk.js.map": "./static/js/334.85f453d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f341123b.css",
-    "static/js/main.239f7642.js"
+    "static/css/main.0fa2d551.css",
+    "static/js/main.9b8080a2.js"
   ]
 }
